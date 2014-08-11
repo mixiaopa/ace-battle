@@ -133,7 +133,7 @@ helpDesk_info = ImageInfo_ans([45, 45], [90, 90], 40, "helpDesk")
 helpDesk_image = simplegui.load_image("http://www.photoshop.org.cn/logo/04/images/HelpDesk__36085.jpg")
 
 expensify_info = ImageInfo_ans([45, 45], [90, 90], 40, "expensify")
-expensify_image = simplegui.load_image("http://dimgcn3.s-msn.com/imageadapter/app.msn.com.cn/marketplace/images/d098/7a76-7e8d-9fa9-1a8e-56fffea72db1.png")
+expensify_image = simplegui.load_image("https://github.com/mixiaopa/ace-battle/blob/master/assets/7a76-7e8d-9fa9-1a8e-56fffea72db1.png")
 
 projectManager_info = ImageInfo_ans([45, 45], [90, 90], 40, "projectManager")
 projectManager_image = simplegui.load_image("http://image2.maiyadi.com/AppleImages/0x0/0/79/79670.175x175-75.jpg")
